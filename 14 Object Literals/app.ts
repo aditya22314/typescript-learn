@@ -86,4 +86,4 @@ order = {
     status: "shipped" // ✅ Allowed
 };
 
-// order.status = "cancelled"; // ❌ Error: Type '"cancelled"' is not assignable to type '"pending" | "shipped" | "delivered"'.
+// order.status = "cancelled"; //  Error: Type '"cancelled"' is not assignable to type '"pending" | "shipped" | "delivered"'.   
